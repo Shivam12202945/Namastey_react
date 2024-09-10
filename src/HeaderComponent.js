@@ -16,7 +16,7 @@ function HeaderComponent() {
                 <li>Home</li>
                 <li>About</li>
                 <li>Contact</li>
-                <li>Cart</li>
+                <li>Cart</li>hikb
             </ul>
         </div>
         {
