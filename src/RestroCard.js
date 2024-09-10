@@ -1,7 +1,8 @@
 import React from 'react'
 
 
-function RestroCard( {name,cuisines,cloudinaryImageId, lastmileTravelString ,deliveryTime})  {
+function RestroCard( {name,cuisines,cloudinaryImageId, lastmileTravelString ,deliveryTime,
+  areaName})  {
     
   return (
     
@@ -12,7 +13,8 @@ function RestroCard( {name,cuisines,cloudinaryImageId, lastmileTravelString ,del
       />
         <h2>{name}</h2>
         <h3>{cuisines}</h3>
-        <h4>{deliveryTime} minutes</h4>
+        <h4>
+        {areaName}</h4>
     </div>
     
   ) 

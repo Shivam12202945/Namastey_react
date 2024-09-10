@@ -1,5 +1,5 @@
-export const rest = [
-    {
+export const  rest= [
+    { 
       id: "472218",
       name: "KFC",
       cloudinaryImageId: "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/3334c8c2-3a17-4531-a91d-fe43776e2df1_472218.JPG",
